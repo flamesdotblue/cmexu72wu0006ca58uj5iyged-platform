@@ -1,5 +1,5 @@
 import React from 'react';
-import { Star, Planet, Sun } from 'lucide-react';
+import { Star, Moon, Sun } from 'lucide-react';
 
 const cards = [
   {
@@ -10,7 +10,7 @@ const cards = [
   },
   {
     title: 'Lunar Lofts',
-    icon: Planet,
+    icon: Moon,
     desc: 'Minimalist design with lunar-inspired textures and mood lighting.',
     img: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1600&auto=format&fit=crop',
   },
